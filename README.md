@@ -1,1 +1,4 @@
-# bellybutton_bacteria
+## Improbable Beef : Vegan Meat Industry Explores Human Belly Button Bacteria - R & D New Products
+The vegan meat industry is exploring a new avenue of product research and development that focuses on the bacteria found in the human navel as the material for "meatless meat" production. Somewhere within the micro-biodiversity of this bacteria sample set from experiment participants is the perfect bacterium for reproducing an authentic feel and taste experience for vegan "meat" products. The purpose of this project is to create an interractive site for the experiment host to catalogue and visually analyze data and for experiment participants to view and explore . Interract with the table to the right to select a bacteria ID and see the corresponding information found during analysis.
+
+### Resource Link : https://avam88.github.io/improbable_beef/
